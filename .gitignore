@@ -1,0 +1,7 @@
+deepod.egg-info/
+dist/
+build/
+.idea
+**/__pycache__
+*.csv
+*.pth
